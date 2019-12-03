@@ -11,3 +11,5 @@ class Application
         $ui->SetLeeted(Leeter::Leet($message));
     }
 }
+
+$ui = new UI();
