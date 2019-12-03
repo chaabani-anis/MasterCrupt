@@ -1,4 +1,8 @@
 {
+  "name": "mastercrupt",
+  "license": "MIT",
+  "type": "project",
+  "description": "MasterCrupt",
   "require": {
     "phpunit/phpunit": "7.5.17"
   },
