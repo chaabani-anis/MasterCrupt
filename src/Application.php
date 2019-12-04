@@ -4,7 +4,7 @@
 namespace MasterCrupt;
 
 
-class Application
+class Application implements ApplicationInterface
 {
     public function Leet(string $message, UI $ui)
     {
